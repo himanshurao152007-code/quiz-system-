@@ -1,0 +1,17 @@
+[
+    {
+        "question": "What is the correct file extension for Python files?",
+        "options": ["A. .pt", "B. .pyt", "C. .py", "D. .pw"],
+        "answer": "C"
+    },
+    {
+        "question": "Which keyword is used to create a function in Python?",
+        "options": ["A. function", "B. def", "C. create", "D. define"],
+        "answer": "B"
+    },
+    {
+        "question": "Which data type is used to store multiple items in a single variable?",
+        "options": ["A. list", "B. string", "C. integer", "D. float"],
+        "answer": "A"
+    }
+]
