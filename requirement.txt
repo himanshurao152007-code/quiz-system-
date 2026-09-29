@@ -1,0 +1,5 @@
+# Core Python package dependencies
+# Standard library modules used: json[cite: 1, 4]
+
+# Note: This project relies exclusively on Python's standard library. 
+# No external pip installations are required to run the examination system.
